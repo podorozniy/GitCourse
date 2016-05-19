@@ -1,9 +1,18 @@
-<<<<<<< HEAD
 1/ f3f3f3f3f3
 
 2/ ggggg
 
 3/ tttttt
 4/hhhhhhh
+
+5/jjjjjjjjj
+6/kkkkkkkkk
+7/llllllll
+9/ttttttttt
+
+yyyyyyyyyyyy
+uuuuuuuuuuu
+iiiiiiiiiii
+ooooooooooooo
 =======
 >>>>>>> parent of 1830584...  Изменения, которые будут включены в коммит:
